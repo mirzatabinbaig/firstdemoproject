@@ -14,3 +14,8 @@ In the words of Abraham lincoln:
 >Pardon my french
 
 use `git status` to list all new or modified files
+
+```
+git status
+git branch
+```
